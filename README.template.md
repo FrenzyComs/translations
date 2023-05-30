@@ -10,11 +10,11 @@ Please only PR if you are adding new strings to the source language, otherwise c
 
 The following table shows languages and people enlisted for verifying certain languages are up to standard.
 
-**Note:** This table only includes languages that are available in the app. If a language has been translated via Weblate and you want it to be added to the app, [please click here](https://github.com/revoltchat/frontend/issues/135).
+**Note:** This table only includes languages that are available in the app. If a language has been translated via Weblate and you want it to be added to the app, [please click here](https://github.com/FrenzyComs/frontend/issues/135).
 
 {{TABLE}}
 
-If you would like to maintain a language, please [open an issue](https://github.com/revoltchat/translations/issues/new/choose) with your request.
+If you would like to maintain a language, please [open an issue](https://github.com/FrenzyComs/translations/issues/new/choose) with your request.
 
 ### What do I do? 
 
@@ -30,10 +30,10 @@ If you would like to be removed as a maintainer, please create an issue. (You wi
 
 There are two different things that need to be handled:
 
-- Languages proposed in [this issue](https://github.com/revoltchat/revite/issues/362) should be added to [Languages.ts](https://github.com/revoltchat/translations/blob/master/Languages.ts).
+- Languages proposed in [this issue](https://github.com/FrenzyComs/revite/issues/362) should be added to [Languages.ts](https://github.com/FrenzyComs/translations/blob/master/Languages.ts).
 - Handle issues on this repository:
-  - Badge requests: ensure that the language has a maintainer, ping any relevant maintainers to verify translations if you cannot yourself, afterwards the user can be added to the [list here](https://github.com/revoltchat/translations/blob/master/contributors.json)
-  - Maintainership requests: ensure the user has sufficient contributions, then add them to the [list here](https://github.com/revoltchat/translations/blob/master/contributors.json)
+  - Badge requests: ensure that the language has a maintainer, ping any relevant maintainers to verify translations if you cannot yourself, afterwards the user can be added to the [list here](https://github.com/FrenzyComs/translations/blob/master/contributors.json)
+  - Maintainership requests: ensure the user has sufficient contributions, then add them to the [list here](https://github.com/FrenzyComs/translations/blob/master/contributors.json)
 
 ## Coverage
 
