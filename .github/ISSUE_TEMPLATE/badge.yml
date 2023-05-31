@@ -11,7 +11,7 @@ body:
     validations:
       required: true
   - type: input
-    id: revolt-id
+    id: frenzy-id
     attributes:
       label: What is your Revolt ID?
       description: Used to assign you a badge

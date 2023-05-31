@@ -1,8 +1,8 @@
 # Revolt Translations
 
-[![Translation status](https://weblate.insrt.uk/widgets/revolt/-/web-app/svg-badge.svg)](https://weblate.insrt.uk/engage/revolt/?utm_source=widget)
+[![Translation status](https://weblate.insrt.uk/widgets/frenzy/-/web-app/svg-badge.svg)](https://weblate.insrt.uk/engage/frenzy/?utm_source=widget)
 
-This repository holds all the translation files for Revolt, feel free to help translate to new languages or fix existing translations at [our Weblate instance](https://weblate.insrt.uk/projects/revolt/web-app/).
+This repository holds all the translation files for Revolt, feel free to help translate to new languages or fix existing translations at [our Weblate instance](https://weblate.insrt.uk/projects/frenzy/web-app/).
 
 Please only PR if you are adding new strings to the source language, otherwise contribute through Weblate.
 
@@ -32,7 +32,7 @@ The following table shows languages and people enlisted for verifying certain la
 |🇬🇷|Ελληνικά / el|[@SudoJanast](https://github.com/SudoJanast)||
 |🇪🇸|Español / es|[@z3ro0k](https://github.com/z3ro0k) [@fernandopal](https://github.com/fernandopal)|[@Dorovich](https://github.com/Dorovich)|
 |🇪🇸|Español (América Latina) / es_419|[@SrWesly](https://github.com/SrWesly) [@7Macros](https://github.com/7Macros)||
-|🇪🇪|eesti / et|[@Asl-script](https://github.com/Asl-script)|[@u032](https://github.com/u032) [@Lefromrevolt](https://github.com/Lefromrevolt)|
+|🇪🇪|eesti / et|[@Asl-script](https://github.com/Asl-script)|[@u032](https://github.com/u032) [@Lefromfrenzy](https://github.com/Lefromfrenzy)|
 |🇫🇮|suomi / fi|||
 |🇵🇭|Filipino / fil|[@I2rys](https://github.com/I2rys)||
 |🇫🇷|Français / fr|[@Hades785](https://github.com/Hades785)|[@RedNight-was-taken](https://github.com/RedNight-was-taken) [@Kasahe](https://github.com/Kasahe)|
@@ -105,4 +105,4 @@ There are two different things that need to be handled:
 
 ## Coverage
 
-[![Translation status](https://weblate.insrt.uk/widgets/revolt/-/web-app/multi-auto.svg)](https://weblate.insrt.uk/engage/revolt/?utm_source=widget)
+[![Translation status](https://weblate.insrt.uk/widgets/frenzy/-/web-app/multi-auto.svg)](https://weblate.insrt.uk/engage/frenzy/?utm_source=widget)
